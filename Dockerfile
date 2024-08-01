@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi8/nginx-118
+FROM registry.access.redhat.com/ubi8/nginx-118:latest
 
 MAINTAINER "John Browning" "johnb@redhat.com"
 
